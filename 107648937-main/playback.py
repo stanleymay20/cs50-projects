@@ -1,0 +1,10 @@
+user_input = input("Please enter your text: ")
+words = user_input.split()
+print(words, sep="...")
+user_input = input("Please enter your text: ")
+words = user_input.split()
+print(words, sep="...")
+user_input = input("Please enter your text: ")
+words = user_input.split()
+print(words, sep="...")
+
